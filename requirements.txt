@@ -1,0 +1,4 @@
+gradio
+langchain
+langchain-groq
+python-dotenv
